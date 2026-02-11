@@ -1,0 +1,1 @@
+"""Recognition training script placeholder."""

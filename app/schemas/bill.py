@@ -1,0 +1,1 @@
+"""Bill data schema placeholders."""

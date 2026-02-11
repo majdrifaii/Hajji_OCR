@@ -1,0 +1,1 @@
+"""API request schema placeholders."""

@@ -1,0 +1,1 @@
+"""OCR output schema placeholders."""
