@@ -12,8 +12,6 @@ env/
 .coverage
 htmlcov/
 .ipynb_checkpoints/
-models/*.pt
-models/*.safetensors
 data/raw/
 data/processed/
 data/synthetic/
