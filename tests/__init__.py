@@ -1,1 +1,1 @@
-"""Test package placeholder."""
+"""Test suite package for unit and integration testing."""

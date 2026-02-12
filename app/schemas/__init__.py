@@ -1,1 +1,0 @@
-"""Internal data schema placeholders."""

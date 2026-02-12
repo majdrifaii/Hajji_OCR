@@ -1,1 +1,0 @@
-"""OCR result repository placeholders."""

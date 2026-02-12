@@ -1,1 +1,0 @@
-"""LLM correction stage placeholder."""

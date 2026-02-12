@@ -1,1 +1,0 @@
-"""Pipeline evaluation script placeholder."""

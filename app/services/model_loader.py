@@ -1,1 +1,0 @@
-"""Model loading service placeholders."""

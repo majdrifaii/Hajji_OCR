@@ -1,1 +1,0 @@
-"""Image alignment stage placeholder."""

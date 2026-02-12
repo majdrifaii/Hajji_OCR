@@ -1,1 +1,0 @@
-"""Detection training script placeholder."""
